@@ -19,6 +19,7 @@ Este projeto tem como objetivo fornecer um exemplo prático de como realizar ope
 ## Tecnologias Utilizadas
 
 - Node.js
+- Npm
 - Express
 - Nodemon
 - Cors
@@ -38,6 +39,7 @@ Este projeto tem como objetivo fornecer um exemplo prático de como realizar ope
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
 - [Node.js](https://nodejs.org/en/download/package-manager)
+- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [Postman](https://www.postman.com/downloads/) 
 
 ### Passos
