@@ -54,7 +54,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
     cd crud-com-arquivo-json
     ```
 
-3. Instale as dependências necessárias.
+3. Instale as dependências necessárias, se caso for criar do zero!
     ```sh
     # express
     npm install --save express
