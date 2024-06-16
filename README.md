@@ -1,3 +1,4 @@
+![Ícone Json](https://cdn3.iconfinder.com/data/icons/type-file-working-office-online-set-the-surname-us/53/json-type-1024.png)
 # Projeto CRUD com Arquivo JSON
 
 Este é um projeto de exemplo que demonstra a implementação de um sistema CRUD (Create, Read, Update, Delete) usando arquivos JSON como armazenamento de dados. O objetivo é fornecer um exemplo simples e funcional de como realizar operações CRUD sem a necessidade de um banco de dados tradicional.
